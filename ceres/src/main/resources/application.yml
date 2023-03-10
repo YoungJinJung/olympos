@@ -61,7 +61,7 @@ management:
 
 logging:
   file:
-    name: "ceres-service.log"
+    name: "/var/log/ceres/application.log"
   level:
     org:
       springframework:
